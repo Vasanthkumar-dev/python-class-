@@ -13,6 +13,7 @@ School of ECE, REVA University
 | Folder | Contents |
 |---|---|
 | `Unit_1` | Variables, input and formatting, operators, conditionals, loops, strings, lists, tuples, sets and dictionaries |
+| `Unit_2` | Functions, default and keyword arguments, `*args` and `**kwargs`, recursion, variable scope, modules and packages |
 
 ## How to run any program here
 
