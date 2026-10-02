@@ -1,6 +1,6 @@
                                                   # python-class-
 
-                        Python Programming and Applications — III Sem R&amp;AI, REVA University
+                        Python Programming and Applications — III Sem R&AI, REVA University
 
                                                 Name: S Vasanth Kumar 
 
