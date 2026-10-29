@@ -1,75 +1,42 @@
-<div align="center">
+# Python Programming and Applications
 
-# 🐍 Python Programming and Applications
+This repository contains the Python programs done as part of the Python Programming and Applications course in the 3rd semester of B.Tech Robotics and Artificial Intelligence at REVA University.
 
-**B.Tech in Robotics and Artificial Intelligence · III Semester**
-School of ECE, REVA University
+**Name:** S Vasanth Kumar  
+**SRN:** R25EV040  
+**Section:** F
 
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![IDLE](https://img.shields.io/badge/Editor-Python%20IDLE-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![REVA](https://img.shields.io/badge/REVA-University-0A66C2?style=for-the-badge)
+## Unit 1
 
-</div>
+Unit 1 contains programs based on the basic concepts of Python.
 
----
+Topics covered:
+- Variables and data types
+- User input and output
+- Operators
+- If, elif and else statements
+- For and while loops
+- Strings
+- Lists and tuples
+- Sets and dictionaries
 
-## 👤 Student Details
+## Unit 2
 
-| | |
-|---|---|
-| **Name** | S Vasanth Kumar |
-| **SRN** | R25EV040 |
-| **Section** | F |
-| **GitHub** | [@Vasanthkumar-dev](https://github.com/Vasanthkumar-dev) |
+Unit 2 contains programs based on functions, modules and other Python concepts.
 
----
+Topics covered:
+- Functions and arguments
+- Recursion
+- Local and global variables
+- Modules and packages
+- Classes and objects
 
-## 📖 About This Repository
+## Running the programs
 
-This repository contains my Python assignment programs. Most examples are based on robots, such as battery levels, sensor readings, waypoints and grid movement.
+The programs can be run using Python IDLE or VS Code.
 
----
+Example:
 
-## 📂 Repository Contents
+`python filename.py`
 
-| Folder | Contents |
-|---|---|
-| `Unit_1` | Variables, input and formatting, operators, conditionals, loops, strings, lists, tuples, sets and dictionaries |
-| `Unit_2` | Functions, recursion, variable scope, modules and packages |
-
----
-
-## 📘 Topics Covered
-
-### Unit 1
-- **Basics:** variables, data types, user input, f-string formatting
-- **Operators:** arithmetic, modulo, comparison and logical operators
-- **Decisions:** `if`, `elif` and `else`
-- **Loops:** `while` loops, `for` loops, nested loops, `break` and `continue`
-- **Strings:** `strip`, `lower`, `upper`, `replace` and `split`
-- **Collections:** lists, list comprehensions, tuples, sets and dictionaries
-- **Mini project:** a menu-driven mission console
-
-### Unit 2
-- **Functions:** parameters, return values, default and keyword arguments, `*args` and `**kwargs`
-- **Recursion:** factorial, Fibonacci and countdown
-- **Scope:** local and global variables
-- **Modules:** `import`, `from ... import`, `import ... as` and `__name__`
-
----
-
-## ▶️ How to Run
-
-```bash
-python Unit_1/filename.py
-```
-
-All programs were written and tested using Python IDLE 3.14.
-
----
-
-<div align="center">
-
-**S Vasanth Kumar · R25EV040**
-
-</div>
+These programs were written as part of the exercises and assignments covered during Python classes.
